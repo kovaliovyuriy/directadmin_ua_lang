@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: src/js/login/Login.vue:51
+msgid "← Back to the login page"
+msgstr "← Повернутися на сторінку входу"
+
+#: src/js/login/components/two-step-auth.vue:35
+msgid "Authenticate"
+msgstr "Авторизація"
+
+#: src/js/login/Login.vue:42
+msgid "Click here"
+msgstr "Натисніть тут"
+
+#: src/js/login/components/send-code.vue:12
+msgid "Code from E-mail"
+msgstr "Код з E-mail"
+
+#: src/js/login/components/login-datetime.vue:3
+msgid "Computer or server time out of sync by %{ hours } hours."
+msgstr "Час комп’ютера чи сервера не синхронізований на% {годин} годин."
+
+#: src/js/login/components/send-message.vue:2
+msgid ""
+"Enter your Username and a confirmation link will be sent to your email "
+"account."
+msgstr ""
+"Введіть своє ім'я користувача і посилання для підтвердження буде надіслано "
+"на ваш акаунт електронної пошти."
+
+#: src/js/login/Login.vue:36
+msgid "Forgot Password?"
+msgstr "Забули пароль?"
+
+#: src/js/login/components/login-datetime.vue:12
+msgid "format:datetime"
+msgstr ""
+
+#: src/js/login/components/standard-auth.vue:28
+msgid "Hmm, login details do not seem to be correct. Please try again."
+msgstr ""
+"Хммм, дані для входу, здається, неправильні. Будь ласка, спробуйте ще раз.."
+
+#: src/js/login/components/language-selector.vue:7
+msgid "Language"
+msgstr "Мова"
+
+#: src/js/login/components/send-code.vue:3
+msgid "Log In using your username and code from E-mail"
+msgstr ""
+"Увійдіть, використовуючи своє ім’я користувача та код з електронної пошти"
+
+#: src/js/login/components/loader.vue:20
+msgid "Logged in.."
+msgstr "Увійшов в.."
+
+#: src/js/login/components/login-header.vue:6
+msgid "Manage your domains, databases & other server info."
+msgstr "Керуйте своїми доменами, базами даних та іншою інформацією про сервер."
+
+#: src/js/login/components/standard-auth.vue:17
+msgid "Password"
+msgstr "Пароль"
+
+#: src/js/login/components/standard-auth.vue:9
+msgid "Please enter username"
+msgstr "Введіть ім’я користувача"
+
+#: src/js/login/components/send-code.vue:26
+msgid "Request New Password"
+msgstr "Запит нового пароля"
+
+#: src/js/login/components/send-message.vue:14
+msgid "Send me a Link"
+msgstr "Надіслати мені посилання"
+
+#: src/js/login/components/standard-auth.vue:46
+msgid "Sign in to Account"
+msgstr "Увійдіть в обліковий запис"
+
+#: src/js/login/components/login-header.vue:3
+msgid "Start DirectAdmin"
+msgstr "Панель DirectAdmin"
+
+#: src/js/login/components/security-question-auth.vue:13
+msgid "Submit Answer"
+msgstr "Надіслати відповідь"
+
+#: src/js/login/Login.vue:12
+msgid "This is a Trial License of DirectAdmin"
+msgstr "Це пробна ліцензія DirectAdmin"
+
+#: src/js/login/components/two-step-auth.vue:16
+msgid "Trust this device for %{ days } days"
+msgstr "Довіряти цьому пристрою %{ days } днів"
+
+#: src/js/login/components/two-step-auth.vue:3
+msgid "Two Step Authentication"
+msgstr "Двоетапна автентифікація"
+
+#: src/js/login/components/send-code.vue:6
+#: src/js/login/components/send-message.vue:5
+msgid "Username"
+msgstr "Користувач"
+
+#~ msgid ""
+#~ "If the username entered is correct, you will receive a confirmation email "
+#~ "shortly."
+#~ msgstr ""
+#~ "Если введенное имя пользователя правильно, вы получите подтверждение по "
+#~ "электронной почте в ближайшее время."
