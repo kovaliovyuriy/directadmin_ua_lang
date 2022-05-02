@@ -6,5 +6,6 @@ wget https://github.com/kovaliovyuriy/directadmin_ua_ru_lang/archive/refs/heads/
 unzip main.zip  
 mv directadmin_ua_ru_lang-main/* ./
 rm -rf directadmin_ua_ru_lang-main main.zip  
+chown -R diradmin:diradmin /usr/local/directadmin/data/skins/evolution/lang/  
 service directadmin restart  
 ```
